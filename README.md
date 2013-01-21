@@ -27,8 +27,8 @@ along with the wsgiref python package.
 
 Service utilization
 --------------
-To utilize the ResumeExtrac service, go to
-    http://ec2-50-17-167-145.compute-1.amazonaws.com:8000
+To utilize the ResumeExtrac service, go to (this is a temporary address):
+    http://ec2-54-242-186-21.compute-1.amazonaws.com:8000/
 
 This url will return all of the available methods, which can be appended to the 
 base url above.

@@ -1,0 +1,110 @@
+﻿DARIN PLUTCHOK
+3207  37th Ave. SW
+Seattle WA 98126
+Phone: 206.909.3665
+email: darin.plutchok@gmail.com
+
+SUMMARY
+
+Taxonomist, Search Lead, & Python Programmer
+
+PROFESSIONAL EXPERIENCE
+
+IP STREET
+Senior Search Engineer & Python Programmer
+March 2012-December 2012
+Responsible for development and integration of keyword and concept search technologies within a complex Python/Linux development environment. 
+Keyword search: Configure and integrate large-scale Solr/Lucene search installation. 
+Latent Semantic Indexing: Configure, manage, and integrate large-scale Latent Semantic Indexing (LSI) search application Content Analyst CAAT Server.
+Python development: Implement search related functionality for IP Street’s analytics web based application. Work within a Linux/Python environment including Django (CMS/web platform), Redis (NoSQL key-value store), PostgreSQL (database), Mercurial (code repository), Fabric (deployment tool), and Celery (distributed task queue).
+Linux operations: Manage concept search (LSI) production Linux box. 
+
+REED BUSINESS INFORMATION
+Global Semantics Lead
+November 2010-February 2012
+Guide taxonomy development, automatic classification, and web-mining initiatives for Reed’s B2B directories, tenders/RFP platforms, and news clippings services. Engagements includes: HotFrog (AU), TendersOnline (AU), Mimesi (IT), Telemat (IT), DoubleTrade (FR), Maninvest (SP).
+Semantics: Taxonomy building, entity tagging, automatic classification, folksonomy expansion, and integration of these semantics into various content management systems and directory platforms.
+Text mining: Classification rules generation, automatic tag expansion, entity relationship mining (e.g. product to brand), and related term discovery; utilizing techniques such as clustering, co-occurrence analysis, similarity measures, WordNet, search, and custom crawling.
+Web mining: Led initiative to exploit Connotate’s web mining capabilities across the enterprise. Including training, facilitation, implementation, and vendor relations. 
+
+REED BUSINESS INFORMATION
+Taxonomy & Classification Lead
+November 2004-November 2010
+RB Search is s global search and content integration platform bringing custom search, metadata enhancement, and content integration to Reed’s 400 plus publishing assets.
+Led the development of semantic related capabilities for the RB Search platform acting both as a taxonomy lead and technical project manager.
+Semantics: Responsible for the build-out of fifty plus industry taxonomies in a variety of languages. Established taxonomy building methods and governance procedures. Managed large scale categorization processes for tagging of topics, brands, and entities.
+Technical: Created a custom entity repository with loading, integration, and export capabilities. Designed custom pipeline stages and dictionary processes (for FAST ESP). Integrated web-mining technologies including Connotate. Helped establish a cross-publication advertising network. 
+Management: Directed in-house and out-sourced taxonomy and technology teams in the US, Europe, Japan, Australia, and India. 
+
+REED BUSINESS INFORMATION
+Taxonomy Manager
+November 2000-November 2004
+Established taxonomy and classification practices in Reed Business US within the eLogic Content Management System/web platform and across multiple B2B publications.
+Semantics: Designed and integrated taxonomy management tools into the eLogic CMS platform. Built many specialized magazine-specific taxonomies. Integrated taxonomies into editorial CMS workflow (including Documentum). Guided publishers on effective utilization of taxonomy and other metadata on their websites. Generated taxonomy based avenues of cross-magazine business opportunities.
+Management: Managed a direct report and two additional remote taxonomists.
+
+ARC ECONSULTANCY
+Metadata Information Architect
+July 2000 -November 2000
+Developed Arc’s metadata and controlled vocabulary consulting methodologies 
+
+ZEAL.COM
+Taxonomy Consultant
+February 2000-July 2000
+Rebuilt large sections of Zeal’s directory taxonomy, defined a geographic taxonomy strategy and established best practice guidelines for Zeal's end-use driven taxonomy development.
+
+ORACLE CORPORATION
+Knowledge Management Lead
+February 1998-February 2000
+Utilized Oracle software products to develop knowledge management applications in support of Oracle's consulting staff. Designed and built a digital and print Industry Research Library to support a market research team.
+
+CANDLE! CORPORATION
+Business Research Library (Software Company
+November 1996-February 1998
+Implemented new electronic information services, provided company-wide on-demand research and 
+current awareness services. Managed business & technical libraries. Management experience: Trained and managed a support librarian. 
+
+JACKSON PUBLIC LIBRARY
+Reference/Electronic Services Librarian
+August 1995-September 1996
+Introduced internet functionality to the reference desk, published the formerly print-only state newspaper subject-index to the Internet, and trained patrons in Internet and CD-ROM research techniques.
+
+EDUCATION
+
+Graduate: Masters of Library & Information Science, UCLA, Los Angeles, CA, Spring 2000.
+Specialized in faceted taxonomies, search thesauri, meta-data and information retrieval systems.
+
+Undergraduate: B.A., Interdisciplinary Studies, Beloit College, Beloit, Wisconsin, Spring 1988.
+
+
+PROFESSIONAL TRAINING
+
+"Autonomy four-day training course", San Francisco, CA, Winter 2010.
+"Designing and Building Ontologies", Seattle, WA, December 2006.
+"FAST Search Engine Developers Training", Boston, MA, Summer 2005.
+"JavaScript Programming", Santa Monica Community College, CA, 2003. 
+"Object Oriented Programming (Java)", UCLA, CA, 2003.
+"Thesaurus Design for Information Architects", San Diego, CA, 2000.
+"Introduction to XML", pre-conference workshop, ASIS Mid-Year Meeting, CA, May 1999.
+"KMWorlds Knowledge Management Conference", Dallas, TX, September 1999
+"Second Generation Intranet Development", Pasadena, CA , May 1999.
+
+KEYWORD SUMMARY
+
+Knowledge Structures
+Knowledge Management
+Taxonomist, Taxonomy, Ontology, Automatic Classification, Entity Extraction, Fact extraction, 
+Solr/Lucene, FAST, Autonomy, CAAT, Nutch
+Text & web mining
+NLTK, Carrot2, Connotate, Teragram, scikit-learn, GATE, WorldNet
+Development tools/environment
+Python, Linux, Bash, Murcurial, Fabric, iPython, with some 
+experience and training in Java, and C#.
+Databases & data-stores
+MSSQL, MySQL, PostgreSQL, Redis
+Python related
+Django, Celery
+Semantics & ontology
+Protégé, TopBraid, Schemalogic RDF, OWL, SKOS                              
+Big data
+Hadoop, Pig, Hive 
